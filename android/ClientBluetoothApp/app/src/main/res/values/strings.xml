@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClientBluetoothApp</string>
+    <string name="stato">STATO:</string>
+    <string name="livello">LIVELLO:</string>
+    <string name="apertura">%APERTURA:</string>
+    <string name="modalita">MODALITA:</string>
+    <string name="modalit_manuale">Modalità Manuale</string>
+    <string name="lblStato">xxx</string>
+    <string name="lblLivello">xxx</string>
+    <string name="lblApertura">xxx</string>
+    <string name="lblModalita">xxx</string>
+    <string name="barApertura"></string>
+    <string name="connect">CONNECT</string>
+</resources>

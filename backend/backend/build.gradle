@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'io.vertx:vertx-core:4.0.2'
+    compile 'io.vertx:vertx-rx-java:4.0.2'
+    compile 'io.vertx:vertx-ext:38'
+    compile 'io.vertx:vertx-web:4.0.2'
+    compile 'io.vertx:vertx-web-client:4.0.2'
+    compile 'io.github.java-native:jssc:2.9.2'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
